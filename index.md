@@ -15,7 +15,5 @@ Welcome to my corner of the web. This is where I showcase my portfolio projects 
 [Portfolio][Portfolio]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Blog][Blog]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
-----
-
 [Portfolio]: https://bsaya.net/portfolio
 [Blog]: https://bsaya.net/blog
