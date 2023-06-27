@@ -1,10 +1,13 @@
 ---
-title: Layout
+title: Webdev
 layout: default
-has_children: true
+parent: Blog
+nav_order: 1
 ---
 
 # Layout
+
+This is the the Web development related Blog posts landing page. 
 
 You specify the layout for a page in its [front matter]. Just the Docs has a `default` layout with a sidebar, used for almost all pages in the theme docs, and a `minimal` layout that omits the sidebar.
 {: .fs-6 .fw-300 }
@@ -37,3 +40,5 @@ Just the Docs has further layouts: `about`, `home`, `page`, and `post`. Currentl
 [Jekyll docs page about layouts]: https://jekyllrb.com/docs/layouts/ "Jekyll docs about layouts"
 [Jekyll's front matter defaults]: https://jekyllrb.com/docs/configuration/front-matter-defaults/ "Jekyll docs about front matter defaults"
 [Jekyll docs about inheritance]: https://jekyllrb.com/docs/layouts/#inheritance "Jekyll docs about inheritance"
+[Personal Blog Posts]: https:bsaya.net/blog/personal "Personal Blog Posts"
+[Web development related Posts]: https://bsaya.net/blog/webdev "Web development blog Posts"

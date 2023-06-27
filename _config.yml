@@ -100,9 +100,9 @@ mermaid:
 heading_anchors: true
 
 # Aux links for the upper right navigation
-#aux_links:
-#  "Show me the code!":
-#    - "//github.com/bharatsaya"
+# aux_links:
+#   "Show me the code!":
+#     - "//github.com/bharatsaya"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -112,9 +112,9 @@ aux_links_new_tab: true
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
-nav_external_links:
-  - title: Just the Docs on GitHub
-    url: https://github.com/just-the-docs/just-the-docs
+# nav_external_links:
+#   - title: Just the Docs on GitHub
+#     url: https://github.com/just-the-docs/just-the-docs
 
 # Footer content
 # appears at the bottom of every page's main content
