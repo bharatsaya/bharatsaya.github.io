@@ -9,7 +9,8 @@ permalink: /
 # .NET Full Stack Web Developer
 {: .fs-9 }
 
-Hey there! Welcome to my corner of the web. This is where I showcase my portfolio projects and blog some interesting stuff.{: .fs-6 .fw-300 }
+Hey there! Welcome to my corner of the web. This is where I showcase my portfolio projects and blog some interesting stuff.
+{: .fs-6 .fw-300 }
 
 [Portfolio](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Blog][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
