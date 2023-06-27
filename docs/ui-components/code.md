@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Code
-parent: UI Components
-has_children: true
-nav_order: 6
+nav_exclude: true
 ---
 
 # Code
