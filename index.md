@@ -6,10 +6,10 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# .NET Full Stack Web Developer
+# Hey there!
 {: .fs-9 }
 
-Hey there! Welcome to my corner of the web. This is where I showcase my portfolio projects and blog some interesting stuff.
+Welcome to my corner of the web. This is where I showcase my portfolio projects and blog some interesting stuff.
 {: .fs-6 .fw-300 }
 
 [Portfolio](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
