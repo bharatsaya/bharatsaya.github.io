@@ -1,7 +1,8 @@
 ---
 title: Portfolio
 layout: default
-nav_order: 2
+permalink: /portfolio/
+nav_order: 3
 ---
 
 # Layout
