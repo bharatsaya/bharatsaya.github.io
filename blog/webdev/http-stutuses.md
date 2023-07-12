@@ -77,4 +77,4 @@ Now, let's look at some of the more commonly used ones
 
 There are many more out there. However, the 80/20 rule applies and these 20 percent codes cover more than 80 percent of the practical use cases. 
 
-##2xx!
+## 2xx!
