@@ -10,4 +10,3 @@ nav_order: 2
 This is the Blog landing page.
 
 Here's my first blog post on **[HTTP Status Codes](https://bsaya.net/blog/http-status-codes)**
-https://bsaya.net/blog/http-status-codes

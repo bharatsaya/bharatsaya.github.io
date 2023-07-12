@@ -7,19 +7,19 @@ nav_exclude: true
 
 # HTTP Status Codes
 
-**So**, when you see the infamous 404 Not Found or the whimsical 418 I'm a teapot (Google even has a dedicated page for this **[google.com/teapot](https://www.google.com/teapot)**), you know you're dealing with the world of web. 
+When you see the infamous 404 Not Found or the whimsical 418 I'm a teapot (Google even has a dedicated page for this **<a href="https://www.google.com/teapot" target="_blank">google.com/teapot</a>**), you know you're dealing with the world of the web. 
 
-When you're in the web, and you need to communicate with other players in the field - like a browser talking to a server or a service calling another API endpoint - HTTP Status Codes come into play. They tell us how things are going - good bad or ugly.
+When you're on the web, and you need to communicate with other players in the field - like a browser talking to a server or a service calling another API endpoint - HTTP Status Codes come into play. They tell us how things are going - good, bad, or ugly.
 
-HTTP Status codes are three digit numbers and they're grouped into five categories - 
+HTTP Status codes are three digit numbers and they're grouped into five categories: 
 
 - **1xx** - These are used for informational purposes, and rare because they're not used in RESTful APIs    
-- **2xx** - All A-OK.These are the happy ones. The dopamine of the web. If there you never got a 2xx, you'd not feel like doing anything online, right? 
+- **2xx** - All A-OK.These are the happy ones. The dopamine of the web. If you never got a 2xx, you wouldn't feel like doing anything online, right? 
 - **3xx** - Wait, you need to go somewhere else. Redirection!
-- **4xx** - I'm telling you it's all your fault! Just as common in the real world as it is in the web world
+- **4xx** - I'm telling you, it's all your fault! Just as common in the real world as it is in the web world
 - **5xx** - Oops, something went wrong. The server knows something is wrong and has the humility to accept it.
 
-Finally, if a server doesn't respond at all, usually the client throws a "Timed Out" exception but this is not an HTTP Status code rather something that happens at the client end because in this case the server is not feeling like talking, right?
+Finally, if a server doesn’t respond at all, the client usually throws a “Timed Out” exception. However, this is not an HTTP Status code. Instead, it's something that happens at the client end because, in this case, the server is not feeling like talking, right?
 
 Now, let's look at some of the more commonly used ones
 
@@ -75,4 +75,6 @@ Now, let's look at some of the more commonly used ones
 
 ---
 
-But there are many more out there but like the 80/20 rule, these 20 percent cover the 80 percent of the practical use cases. 2xx.
+There are many more out there. However, the 80/20 rule applies here and these 20 percent codes cover more than 80 percent of the practical use cases. 
+
+##2xx!
