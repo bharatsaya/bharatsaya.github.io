@@ -7,7 +7,7 @@ nav_exclude: true
 
 # HTTP Status Codes
 
-When you see the infamous 404 Not Found or the whimsical 418 I'm a teapot (Google even has a dedicated page for this **<a href="https://www.google.com/teapot" target="_blank">google.com/teapot</a>**), you know you're dealing with the world of the web. 
+When you see the infamous 404 Not Found or the whimsical 418 I'm a teapot (Google even has a dedicated link for this **<a href="https://www.google.com/teapot" target="_blank">google.com/teapot</a>**), you know you're dealing with the world of the web. 
 
 When you're on the web, and you need to communicate with other players in the field - like a browser talking to a server or a service calling another API endpoint - HTTP Status Codes come into play. They tell us how things are going - good, bad, or ugly.
 
