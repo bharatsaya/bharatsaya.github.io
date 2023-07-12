@@ -71,7 +71,7 @@ Now, let's look at some of the more commonly used ones
 > ## 5xx Series
 >
 >   **500 Internal Server Error**
->    The server has encountered a situation and, unfortunately, it doesn't know how to handle.
+>    The server has encountered a situation and it doesn't know how to handle.
 
 ---
 
